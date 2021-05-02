@@ -1,6 +1,6 @@
 # LIST
 
-```texts
+```text
 intitle:"NetCamSC*" | intitle:"NetCamXL*" inurl:index.html
 
 "Pop-up" + "Live Image" inurl:index.html
@@ -28,4 +28,8 @@ intitle:"index of" ./bash_history
 intitle:Index.of etc shadow
 
 "index of" "sshd_config"
+
+filetype:pub inurl:ssh -git
+
+intitle:"Apache::Status" (inurl:server-status | inurl:status.html | inurl:apache.html)
 ```
