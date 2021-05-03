@@ -56,7 +56,7 @@ intitle:"index of" inurl:ftp
 inurl:top.htm inurl:currenttime
 
 # Servers that have not been set up yet
-intitle:"Apache2 Debian Default Page: It works"
+intitle:"Apache2" intitle:"Default Page: It works"
 
 # Phpmyadmin 
 "Index of" inurl:phpmyadmin
