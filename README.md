@@ -63,4 +63,7 @@ intitle:"Apache2" intitle:"Default Page: It works"
 
 # Password dumps
 site:pastebin.com intext:admin.password
+
+# API secrets
+allintext:"API_SECRET*" ext:env | ext:yml
 ```
