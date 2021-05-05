@@ -69,7 +69,4 @@ allintext:"API_SECRET*" ext:env | ext:yml
 
 # Telnet Secret
 ext:log telnet intext:password
-
-# Servers affected by wannadecryptor
-intitle:index of intext:@WanaDecryptor@.exe
 ```
