@@ -66,4 +66,7 @@ site:pastebin.com intext:admin.password
 
 # API secrets
 allintext:"API_SECRET*" ext:env | ext:yml
+
+# Telnet Secret
+ext:log telnet intext:password
 ```
